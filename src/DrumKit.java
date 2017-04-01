@@ -29,7 +29,7 @@ public class DrumKit extends MouseAdapter {
    	 // 3. Set the size of the frame
    	 ufo.setSize(200, 200);
    	 // 4. Set the title of the frame
-   	 ufo.setTitle("HELOOOO");
+   	 ufo.setTitle("Go die in a hole");
    	 // 5. Make a JPanel and initialize it.
    	 JPanel window=new JPanel();
    	 // 6. Add the panel to the frame. (The panel is invisible.)
